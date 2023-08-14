@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.DS_Store
+build-3D_Viewer_v2-Qt_6_2_4_for_macOS-Debug/
+build-3D_Viewer_v2-Desktop_x86_darwin_generic_mach_o_64bit-Debug/
+src/.DS_Store
+src/3D_Viewer_v2.pro.user
